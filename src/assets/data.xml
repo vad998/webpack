@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Website</RootNamespace>
+    <AssemblyName>Website</AssemblyName>
+    <Company>Group</Company>
+    <Product>Website</Product>
+    <Authors>Alexey Vasilchenko</Authors>
+    <Copyright>© Group</Copyright>
+    <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+</PropertyGroup>
